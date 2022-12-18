@@ -1,8 +1,9 @@
 {
   "name": "todo-app",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
-  "homepage": "http://helllover.github.io/TodoApp/",
+  "author": "HellLover",
+  "homepage": "http://helllover.github.io/TodoApp",
   "scripts": {
     "dev": "vite",
     "predeploy": "yarn build",
