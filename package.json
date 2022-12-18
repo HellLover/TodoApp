@@ -1,8 +1,8 @@
 {
   "name": "todo-app",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
-  "homepage": "http://helllover.github.io/TodoApp/",
+  "homepage": "http://helllover.github.io/TodoApp",
   "scripts": {
     "dev": "vite",
     "predeploy": "yarn build",
@@ -13,7 +13,8 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-icons": "^4.4.0"
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.5.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
